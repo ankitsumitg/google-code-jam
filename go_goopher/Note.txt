@@ -1,0 +1,2 @@
+For testing use 
+python testing_tool.py python go_goopher.py
